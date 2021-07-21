@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/essae_mturk/static/css/main.a617e044.chunk.css",
+    "main.js": "/essae_mturk/static/js/main.5d63061d.chunk.js",
+    "main.js.map": "/essae_mturk/static/js/main.5d63061d.chunk.js.map",
+    "runtime-main.js": "/essae_mturk/static/js/runtime-main.9c07a391.js",
+    "runtime-main.js.map": "/essae_mturk/static/js/runtime-main.9c07a391.js.map",
+    "static/js/2.18c87313.chunk.js": "/essae_mturk/static/js/2.18c87313.chunk.js",
+    "static/js/2.18c87313.chunk.js.map": "/essae_mturk/static/js/2.18c87313.chunk.js.map",
+    "static/js/3.e0341233.chunk.js": "/essae_mturk/static/js/3.e0341233.chunk.js",
+    "static/js/3.e0341233.chunk.js.map": "/essae_mturk/static/js/3.e0341233.chunk.js.map",
+    "index.html": "/essae_mturk/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/essae_mturk/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.18c87313.chunk.js.LICENSE.txt": "/essae_mturk/static/js/2.18c87313.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c07a391.js",
+    "static/js/2.18c87313.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5d63061d.chunk.js"
+  ]
+}
